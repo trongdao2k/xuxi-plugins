@@ -45,8 +45,8 @@ install the marketplace, with the plugin enabled by default:
   "extraKnownMarketplaces": {
     "xuxi-plugins": {
       "source": {
-        "source": "url",
-        "url": "https://github.com/trongdao2k/xuxi-plugins.git"
+        "source": "github",
+        "url": "trongdao2k/xuxi-plugins"
       }
     }
   },
