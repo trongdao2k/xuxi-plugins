@@ -11,7 +11,7 @@ Claude Code plugin marketplace for Dev team.
 Push this directory to an internal git repository, then each developer runs:
 
 ```
-/plugin marketplace add <git-url-or-owner/repo>
+/plugin marketplace add trongdao2k/xuxi-plugins
 /plugin install compare-pr@xuxi-plugins
 /reload-plugins
 ```
@@ -46,7 +46,7 @@ install the marketplace, with the plugin enabled by default:
     "xuxi-plugins": {
       "source": {
         "source": "url",
-        "url": "https://<git-host>/<owner>/xuxi-plugins.git"
+        "url": "https://github.com/trongdao2k/xuxi-plugins.git"
       }
     }
   },
