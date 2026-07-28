@@ -1,0 +1,8 @@
+{
+  "name": "compare-pr",
+  "description": "Generates PR descriptions in format (What changed | Why | How to test | Screenshots), with Magento 2 specific test steps and pre-review checks",
+  "author": {
+    "name": "Trong Dao"
+  },
+  "keywords": ["pull-request", "magento2", "code-review", "documentation"]
+}

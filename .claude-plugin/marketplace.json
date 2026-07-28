@@ -1,0 +1,20 @@
+{
+  "name": "xuxi-plugins",
+  "description": "Claude Code plugins for th Dev team",
+  "owner": {
+    "name": "Trong Dao"
+  },
+  "plugins": [
+    {
+      "name": "compare-pr",
+      "source": "./plugins/compare-pr",
+      "description": "Generates PR descriptions in format (What changed | Why | How to test | Screenshots), Magento 2 aware",
+      "category": "workflow",
+      "tags": [
+        "pull-request",
+        "magento2",
+        "documentation"
+      ]
+    }
+  ]
+}
